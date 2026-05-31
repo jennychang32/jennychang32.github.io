@@ -7,6 +7,5 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-Download CV: [PDF]({{ site.baseurl }}/files/cv.pdf)
+<iframe src="../files/cv.pdf" width="100%" height="900px">
+</iframe>
