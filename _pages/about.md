@@ -1,3 +1,8 @@
+---
+title: "About"
+permalink: /
+---
+
 About Me
 ---------
 
