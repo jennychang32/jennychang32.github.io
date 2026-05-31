@@ -1,10 +1,8 @@
 ---
-title: "About"
+title: "About Me"
 permalink: /
+author_profile: true
 ---
-
-About Me
----------
 
 Chun-Yi Chang is a fourth-year PhD student in the [Department Statistics and Probability](https://stt.natsci.msu.edu) at [Michigan State University](https://msu.edu). She is advised by [Dr. Chih-Li Sung](https://chihli.github.io). Her research interests include _surrogate modeling_, _uncertainty quantification_, and _computer simultation_, with a particular focus on _deep Gaussian processes_ and _machine learning_.
 
