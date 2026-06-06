@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jenny.HEIC"
+  avatar           : "jenny.jpg"
   name             : "Chun-Yi Chang"
   pronouns         : # example: "she/her"  
   bio              : "PhD stduent, Department of Stsatistics and Probability"
