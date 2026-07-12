@@ -45,8 +45,9 @@
 ;
 
 /* Keep footer at the bottom on pages with little content */
-html {
-  height: 100%;
+html,
+body {
+  min-height: 100%;
 }
 
 body {
@@ -60,7 +61,5 @@ body {
 }
 
 .page__footer {
-  float: none !important;
   margin-top: auto !important;
-  flex-shrink: 0;
 }
