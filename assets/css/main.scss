@@ -46,5 +46,6 @@
 
 /* Add space on short pages without changing the page layout */
 .initial-content {
-  min-height: calc(100vh - 220px);
+  min-height: calc(100vh - 140px);
+  min-height: calc(100dvh - 140px);
 }
