@@ -42,10 +42,11 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Keep footer at the bottom on short pages */
-html,
-body {
-  min-height: 100%;
+;
+
+/* Keep footer at the bottom on pages with little content */
+html {
+  height: 100%;
 }
 
 body {
@@ -55,11 +56,11 @@ body {
 }
 
 .initial-content {
-  display: flex;
   flex: 1 0 auto;
-  flex-direction: column;
 }
 
-#main {
-  flex: 1 0 auto;
+.page__footer {
+  float: none !important;
+  margin-top: auto !important;
+  flex-shrink: 0;
 }
