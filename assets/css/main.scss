@@ -44,8 +44,26 @@
 
 ;
 
-/* Add space on short pages without changing the page layout */
-.initial-content {
-  min-height: calc(100vh - 140px);
-  min-height: calc(100dvh - 140px);
+/* Responsive sticky footer */
+html,
+body {
+  min-height: 100%;
+}
+
+body {
+  min-height: 100vh;
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+}
+
+.site-content-wrapper {
+  flex: 1 0 auto;
+  width: 100%;
+  min-width: 0;
+}
+
+.page__footer {
+  flex: 0 0 auto;
+  width: 100%;
 }
