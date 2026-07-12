@@ -44,22 +44,7 @@
 
 ;
 
-/* Keep footer at the bottom on pages with little content */
-html,
-body {
-  min-height: 100%;
-}
-
-body {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-}
-
+/* Add space on short pages without changing the page layout */
 .initial-content {
-  flex: 1 0 auto;
-}
-
-.page__footer {
-  margin-top: auto !important;
+  min-height: calc(100vh - 220px);
 }
