@@ -5,7 +5,7 @@ layout: single
 ---
 
 - **NISS New Researcher Award (2026)** <br>
-Presented an research talk on _Efficient Deep Gaussian Process Surrogates via Mini-Batch Latent MAP Estimation_.
+Presented a research talk on _Efficient Deep Gaussian Process Surrogates via Mini-Batch Latent MAP Estimation_.
 
 - **Dissertation Completion Fellowship (2026)** <br>
 Awarded by the College of Natural Science at Michigan State University in support of dissertation completion.
