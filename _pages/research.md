@@ -10,9 +10,9 @@ My research interests include **surrogate modeling**, **uncertainty quantificati
 Our current work, _Efficient Deep Gaussian Process Surrogates via Mini-Batch Latent MAP Estimation_, proposes a two-layer deep Gaussian process framework that employs mini-batch latent MAP estimation to enable scalable inference. The method utilizes stochastic gradient-based optimization, including Adam, to efficiently learn latent representations while maintaining computational tractability.
 
 ## Publications
-Chang, C.-Y. and Sung, C.-L. (2026). Deep Intrinsic Coregionalization Multi-Output Gaussian Process Surrogate with Active Learning. _International Journal for Uncertainty Quantification_, accepted.
+Chang, C.-Y. and Sung, C.-L. (2026). Deep Intrinsic Coregionalization Multi-Output Gaussian Process Surrogate with Active Learning. _International Journal for Uncertainty Quantification_.
 <p>
-  <a href="https://arxiv.org/abs/2508.16434" target="_blank">
+  <a href="https://doi.org/10.1615/Int.J.UncertaintyQuantification.2026062570" target="_blank">
     <i class="fas fa-file-alt"></i>
   </a>
 <p>
