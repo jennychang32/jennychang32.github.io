@@ -8,7 +8,7 @@ I am a Ph.D. candidate in the [Department of Statistics and Probability](https:/
 
 My research focuses on developing statistical methods for learning from complex computer simulations. I work on **surrogate modeling**, **uncertainty quantification**, and **sequential learning**, with a particular interest in deep Gaussian processes. My work aims to build flexible predictive models and guide the selection of informative simulation runs when computational resources are limited.
 
-**I am currently on the job market,** and expected to graduated by July 2027. Please feel free to contact me about opportunities related to my research interests.
+**I am currently on the job market** and expected to graduated by July 2027. Please feel free to contact me about opportunities related to my research interests.
 
 I received my M.S. in Applied Statistics from Michigan State University and my B.B.A. in Statistics from National Taipei University.
 
