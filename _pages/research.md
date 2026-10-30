@@ -7,7 +7,7 @@ layout: single
 My research interests include **surrogate modeling** and **uncertainty quantification** for **computer experiments**, with particular interests in **deep Gaussian processes** and **sequential learning**.
 
 ## Preprints
-**Efficient Deep Gaussian Process Surrogates via Mini-Batch Latent MAP Estimation**<br>
+**Efficient Deep Gaussian Process Surrogates via Mini-Batch Latent MAP Estimation.**<br>
 Chang, C.-Y. and Sung, C.-L. (2026). _Submitted_.
 
 We propose LaMP-DGP, a deep Gaussian process surrogate that combines latent maximum-a-posteriori estimation with efficient probabilistic prediction. A mini-batch optimization algorithm enables training on larger datasets, with competitive predictive performance across numerical experiments and real-data applications.
@@ -16,10 +16,10 @@ We propose LaMP-DGP, a deep Gaussian process surrogate that combines latent maxi
   <a href="https://arxiv.org/pdf/2610.38038" target="_blank">
     <i class="fas fa-file-alt"></i>
   </a>
-<p>
+</p>
 
 ## Publications
-**Deep Intrinsic Coregionalization Multi-Output Gaussian Process Surrogate with Active Learning**<br>
+**Deep Intrinsic Coregionalization Multi-Output Gaussian Process Surrogate with Active Learning.**<br>
 Chang, C.-Y. and Sung, C.-L. (2026). _International Journal for Uncertainty Quantification_.
 
 We develop deepICMGP, a multi-output deep Gaussian process surrogate that uses hierarchical coregionalization to capture nonlinear dependencies among simulation outputs. We incorporate active learning strategies to sequentially select informative input locations, enabling efficient surrogate modeling for multi-output computer experiments. 
@@ -28,4 +28,4 @@ We develop deepICMGP, a multi-output deep Gaussian process surrogate that uses h
   <a href="https://doi.org/10.1615/Int.J.UncertaintyQuantification.2026062570" target="_blank">
     <i class="fas fa-file-alt"></i>
   </a>
-<p>
+</p>
