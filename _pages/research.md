@@ -25,7 +25,13 @@ Chang, C.-Y. and Sung, C.-L. (2026). _International Journal for Uncertainty Quan
 We develop deepICMGP, a multi-output deep Gaussian process surrogate that uses hierarchical coregionalization to capture nonlinear dependencies among simulation outputs. We incorporate active learning strategies to sequentially select informative input locations, enabling efficient surrogate modeling for multi-output computer experiments. 
 
 <p>
-  <a href="https://doi.org/10.1615/Int.J.UncertaintyQuantification.2026062570" target="_blank">
-    <i class="fas fa-file-alt"></i>
+  <a href="https://doi.org/10.1615/Int.J.UncertaintyQuantification.2026062570"
+     target="_blank" rel="noopener" aria-label="Read the paper">
+    <i class="fas fa-file-alt" aria-hidden="true"></i>
+  </a>
+  &nbsp;
+  <a href="https://cran.r-project.org/web/packages/deepICMGP/index.html"
+     target="_blank" rel="noopener" aria-label="deepICMGP on CRAN">
+    <i class="fab fa-r-project" aria-hidden="true"></i>
   </a>
 </p>
