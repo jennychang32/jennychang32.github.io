@@ -16,6 +16,8 @@ Outside of research, I enjoy playing volleyball, watching dramas, and traveling.
 
 News
 ------
+- **Nov. 2026** — Our R package, <a href="https://cran.r-project.org/web/packages/deepICMGP/index.html" target="_blank" rel="noopener">deepICMGP</a>, is now available on CRAN.
+
 - **Oct. 2026** — Our preprint, _Efficient Deep Gaussian Process Surrogates via Mini-Batch Latent MAP Estimation_, is now available on <a href="https://arxiv.org/abs/2610.38038" target="_blank">arXiv</a>.
 
 - **Aug. 2026** — I will present _Efficient Deep Gaussian Process Surrogates via Mini-Batch Latent MAP Estimation_ at the <a href="https://meetings.informs.org/wordpress/annual/" target="_blank">2026 INFORMS Annual Meeting</a> in San Francisco.
