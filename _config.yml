@@ -16,7 +16,7 @@ description              : &description "Chun-Yi Chang's Personal Website"   # U
 url                      : https://jennychang32.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "jennychang32/jennychang32.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   avatar           : "jenny.jpg"
   name             : "Chun-Yi Chang"
   pronouns         : # example: "she/her"  
-  bio              : "PhD stduent, Department of Stsatistics and Probability"
+  bio              : "Ph.D. Candidate, Department of Statistics and Probability"
   location         : "East Lansing, MI"
   employer         : "Michigan State University"
   uri              : # URL
@@ -35,10 +35,10 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Sivl-r9RA7gC"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : #"https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0004-2595-0085"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
