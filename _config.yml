@@ -192,6 +192,12 @@ exclude:
   - README
   - tmp
   - vendor
+  - markdown_generator
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
+  - talkmap_out.ipynb
+  - scripts
 keep_files:
   - .git
   - .svn
