@@ -18,9 +18,9 @@ News
 ------
 - **Nov. 2026** — Our R package, <a href="https://cran.r-project.org/web/packages/deepICMGP/index.html" target="_blank" rel="noopener">deepICMGP</a>, is now available on CRAN.
 
-- **Oct. 2026** — Our preprint, _Efficient Deep Gaussian Process Surrogates via Mini-Batch Latent MAP Estimation_, is now available on <a href="https://arxiv.org/abs/2610.38038" target="_blank">arXiv</a>.
+- **Nov. 2026** — I presented _Efficient Deep Gaussian Process Surrogates via Mini-Batch Latent MAP Estimation_ at the <a href="https://meetings.informs.org/wordpress/annual/" target="_blank">2026 INFORMS Annual Meeting</a> in San Francisco.
 
-- **Aug. 2026** — I will present _Efficient Deep Gaussian Process Surrogates via Mini-Batch Latent MAP Estimation_ at the <a href="https://meetings.informs.org/wordpress/annual/" target="_blank">2026 INFORMS Annual Meeting</a> in San Francisco.
+- **Oct. 2026** — Our preprint, _Efficient Deep Gaussian Process Surrogates via Mini-Batch Latent MAP Estimation_, is now available on <a href="https://arxiv.org/abs/2610.38038" target="_blank">arXiv</a>.
 
 - **Aug. 2026** — Our paper, <a href="https://doi.org/10.1615/Int.J.UncertaintyQuantification.2026062570" target="_blank"><em>Deep Intrinsic Coregionalization Multi-Output Gaussian Process Surrogate with Active Learning</em></a>, has been published in the _International Journal for Uncertainty Quantification_!
 
